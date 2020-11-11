@@ -6,7 +6,7 @@ OPPO手机推送
  
 
 ``` shell
- cordova plugin add cordova-plugin-oppo-push
+ cordova plugin add cordova-plugin-oppo-push --variable  APP_KEY=YOUR_APP_KEY --variable APP_SECRET=YOUR_APP_SECRET
 ```
 
 ## 使用
